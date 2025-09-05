@@ -1,10 +1,10 @@
 {
   "type": "service_account",
-  "project_id": "student-feedback-system-45c5c",
-  "private_key_id": "c37669015896dc9025653fb127bd3d206f378e7e",
+  "project_id": "//copy and past from d drive student feedback forlder keyjson//",
+  "private_key_id": "same above",
   "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCaK+8lVkRefECy\n9hu7WLAYi2IWu/k5BPqcw70vJjRun00UZEnPxPKh/4R1xkECR3qwwqzTBJWuu0pi\nMgkYTOxj3JhV++Ll3jwlJaDmyjB1yXuT/GWwc07tIV3VNIGm25KzIYTtQMTh81d1\n3OxiIR36McB5JET5lGoTPF05PcyPDSai6c6vwTsqXDFyyfzZZewmI5HNa8pF48Ru\nUxqQ62saC/5opbhdzljG60lq98uWGOjJe8ZYSRQK3uh4ge8huk5NStZKPAuBXFGI\nPwLsLNtZu+M42RSRZ3R1aJgW9zxbsmxr/gO9hsbrpgRE8rOgdgb4ruey/BOk2P5w\n3KB3QkSjAgMBAAECggEAASHkN0JObTLRSBosxYyph7jVGnNURI8NwC8gSzytwlUy\nQsrsuzwoQLUzpd5wtNoAFJhKTbtTNHIWdk4t4kpw4Mp5sC3i0ozHA0N3zo5eQtvZ\nya02tPHRWTj1n5V8g8cGW9+7eDdHkoG2vm0W/HHzuKBPPYBWYcfBmxHuwE6sAGPr\noJGFHNjjRuxHUumRq6YgnMcZC7YaGWoN43TToQKQqsrJvJqPLCi+35LvyNWLlvjW\nPHBfflLYCCdnNvUzYIpFHTe7REdqid2P+CaWE+xiruo6z4isftJN7PXWDlMcwd9y\np01gevh+6lV5gWXuG8GaK5926EU04TB1H8pDU4hrQQKBgQDPnmmfrQCQ4HspzZvL\noNWgcL07LFeoZ88/cjmEqONBV3ItRSLuPKO/Zvw4xQOfUfQFlm30ui57iJnrrxw1\neLbgR5V5UnrTbMIS2T7cYF/r269mdOgGyTioeMjTsZPIYO7+ksFyOzMe509HGhvo\nNP/fhc1415aJUT84YTMXgoUBkwKBgQC+GRt51GZ4V6mlRPp98Em7ovfeyrvW4vsV\nSJTIJugzrLjiiUtgKvNbWJbmj4asTInLSfZJcBOFZIIeS44+wJndskuU8WbSvteh\nsrxZKV0nu7OuCs642P/hJY+NVmFPZ2zFVuWwnhP0b/NKY/WtsV4QvaQhzPLzshzh\nwH7X/1fasQKBgEN9g2hcnKp7zo2wQMzY45jcDSeHKpeb50sAnqH5JKbA/mSo7Mn0\n/GXj3Gm34Y2Q3npShDvhqeqOZTqwGcNoEkql+nkNzs+bsxrddAm/am8JYuMzbZmH\nH9vkJ6RpPVkN6aLnoeq4Q83v811xp1C8qdDHdhuqOU06FAsHzcv+qa3xAoGAeIhO\n5ZaJSnC6/jGYalX7Sl/wrnD5XS0aaspUm/wfavRvXiQTiOxy1U58j8Adcg4tqJpC\n8RmBJyktX6wkiyFv7iPozI2r1qBu9PXxes9BY7oeGZJ8tLPSup0oQkOs+73mN9H7\nXVs959U7+8UZt4Io1JCKC2x5947NxU5anvYmbGECgYEAizwB6JPLGs8MjvEFjmY3\n3LgJsMLsX6CI8kwF/2TCbGwjW8HahsfJAHULOE7cjJiPaPJ48KdLnYAIxufoxvIR\npHtJcBAwsxTc240FXgbdG81O1NDjveN3LrM7Iner6MKTmiK/0vVU5Y2Fkph8/PKF\njmuvTXlDEXJNujbe6yjE5zk=\n-----END PRIVATE KEY-----\n",
   "client_email": "firebase-adminsdk-fbsvc@student-feedback-system-45c5c.iam.gserviceaccount.com",
-  "client_id": "101842542501311651812",
+  "client_id": "",
   "auth_uri": "https://accounts.google.com/o/oauth2/auth",
   "token_uri": "https://oauth2.googleapis.com/token",
   "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
